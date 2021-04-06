@@ -1,0 +1,8 @@
+- time: 8:00 AM - 11:00 AM
+  info: " <br>Tutorial on Texas Instruments CC1352 board (2-3 Hours)<br>Participants will use this as a testbed to port tinyML algorithms to develop various applications. We will mainly focus on the time-series data in this workshop."
+
+
+- time: 11:00 AM - 2:00 PM
+  info: " <br>Tutorial on in-house developed tinyML toolchain, using a case study for sound identification task.(2-3 Hours)"
+- time: 3:00 PM - 5:00 PM
+  info: "Presentation by TI customers to brainstorm on potential use cases, where tinyML systems can be deployed.(1-2 Hours)"
